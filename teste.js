@@ -1,0 +1,5 @@
+FIRST_NAME = "STEPHANY";
+
+console.log(FIRST_NAME);
+
+const FIRST_NAME;
